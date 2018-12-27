@@ -11,3 +11,5 @@ My client, Telco Company, is a telephone and internet service provider with over
 Identify customers that are likely to churn and reach out to them to try to stop them from churning via special offers targeted to their needs
 Focus marketing on customers that are more likely to be long term customers
 Modify their services to improve the likelihood customers will stay longer term
+
+Document : https://docs.google.com/document/d/19TF1eagc1ibbVdhhMQOBxuYQ4SJSg5_UPJ38n6be9sM/edit?usp=sharing 
