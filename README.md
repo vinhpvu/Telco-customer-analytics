@@ -13,6 +13,9 @@ Focus marketing on customers that are more likely to be long term customers
 Modify their services to improve the likelihood customers will stay longer term
 
 Document : https://docs.google.com/document/d/19TF1eagc1ibbVdhhMQOBxuYQ4SJSg5_UPJ38n6be9sM/edit?usp=sharing 
+
 project proposal:project proposal.pdf
+
 powerpoint: telco customer analytics.pdf
+
 code: capstone code.ipynb
